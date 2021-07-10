@@ -26,4 +26,4 @@ for any query of support feel free to contact us through telegram
 
 # Psycho Bots
 
-[SUPPORT](https://t.me/PyschoBots_chat)
+[SUPPORT](https://t.me/PsychoBots_chat)
