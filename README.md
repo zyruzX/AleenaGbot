@@ -7,5 +7,5 @@ we wiil bring is ASAP as a Open Source will many new features....
 
 ## Pyscho Bots
 
-workings together with [PyschoBots](https://t.me/psychobots)
+workings together with [PyschoBots](https://t.me/psycho_bots)
 
